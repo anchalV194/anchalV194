@@ -2,8 +2,7 @@
 
 🎓 B.Tech CSE @ SSIPMT, Raipur  
 💡 Passionate about Flutter, DSA, and building real-world apps  
-📱 Currently working on: WhatsApp Clone, HerShield App  
-📈 Solved 300+ DSA problems on LeetCode  
+📱 Currently working on: HerShield App  
 📬 Reach me: anchalxv@gmail.com
 
 ---
