@@ -16,13 +16,7 @@
 
 ---
 
-### 📈 GitHub Stats
-![Anchal's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=dracula)
-
----
-
 ### 🔗 Connect With Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/your-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/anchal-verma-499056241/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:anchalxv@gmail.com)
-[![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode)](https://leetcode.com/your-id)
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?logo=leetcode)](https://leetcode.com/u/anchalvermaa/)
