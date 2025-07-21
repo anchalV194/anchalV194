@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **anchalxv@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1g1miPuBJQ3XLY7WrwvK1Zu0vHxGjbUGO/view?usp=sharing](https://drive.google.com/file/d/1g1miPuBJQ3XLY7WrwvK1Zu0vHxGjbUGO/view?usp=sharing)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1g1miPuBJQ3XLY7WrwvK1Zu0vHxGjbUGO/view?usp=sharing](https://drive.google.com/file/d/1e31DdqPqNVv_B2iDFbzh3VyWY39IaABS/view?usp=sharing)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
