@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anchal Verma</h1>
-<h3 align="center">🎓 B.Tech CSE @ SSIPMT, Raipur 💡 Passionate about Flutter, DSA, and building real-world apps 📱 Currently working on: HerShield App 📬 Reach me: anchalxv@gmail.com</h3>
+<h3 align="center">🎓 B.Tech CSE @ SSIPMT, Raipur 💡 Passionate about Flutter, DSA, and building real-world apps 📱 Currently working on: HerShield App </h3>
 
 - 🌱 I’m currently learning **React, Next.js and more frameworks**
 
