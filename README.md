@@ -14,7 +14,7 @@
 - 💬 Ask me about **Flutter**, **Java**, **DSA**, and frontend development.
 - 🌱 Currently learning **React.js**, **Next.js**, and exploring backend technologies.
 - 📩 Reach me at: [anchalxv@gmail.com](mailto:anchalxv@gmail.com)
-- 📄 [View My Resume]([https://drive.google.com/file/d/1g1mpiuBfQ3XLY7WvwkT1Zu0VHxGbJlUGO/view?usp=sharing](https://drive.google.com/file/d/1e31DdqPqNVv_B2iDFbzh3VyWY39IaABS/view?usp=sharing))
+- 📄 [View My Resume]([https://drive.google.com/file/d/1g1mpiuBfQ3XLY7WvwkT1Zu0VHxGbJlUGO/view?usp=sharing])
 
 ---
 
