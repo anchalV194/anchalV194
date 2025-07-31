@@ -13,7 +13,7 @@
 - 👩‍💻 I'm a **CSE'26** student who loves to solve problems and build creative tech solutions.
 - 💬 Ask me about **Flutter**, **Java**, **DSA**, and frontend development.
 - 🌱 Currently learning **React.js**, **Next.js**, and exploring backend technologies.
-- 📩 Reach me at: [anchalxv@gmail.com](mailto:anchalvbv@gmail.com)
+- 📩 Reach me at: [anchalxv@gmail.com](mailto:anchalxv@gmail.com)
 - 📄 [View My Resume](https://drive.google.com/file/d/1g1mpiuBfQ3XLY7WvwkT1Zu0VHxGbJlUGO/view?usp=sharing)
 
 ---
@@ -30,7 +30,7 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/anchal-verma-499065241" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" /></a>
-  <a href="mailto:anchalvbv@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:anchalxv@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://leetcode.com/u/anchalvermaa/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-orange?style=flat-square&logo=leetcode&logoColor=white" /></a>
   <a href="https://github.com/anchalV194" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" /></a>
 </p>
