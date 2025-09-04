@@ -52,8 +52,8 @@
   <a href="https://github.com/anchalV194/HerShield">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anchalV194&repo=HerShield&theme=radical" />
   </a>
-  <a href="https://github.com/anchalV194/Scientific_Calculator">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anchalV194&repo=Scientific_Calculator&theme=radical" />
+  <a href="[https://github.com/anchalV194/Scientific_Calculator](https://github.com/anchalV194/Sentiment-Analysis-of-Movie-reviews)">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anchalV194&repo=Sentiment-Analysis-of-Movie-reviews&theme=radical" />
   </a>
 </p>
 
