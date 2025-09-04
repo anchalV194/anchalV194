@@ -20,7 +20,7 @@
 ### 🧩 Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=dart,flutter,java,js,html,css,cpp,react,nextjs,python,firebase,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=dart,flutter,java,js,html,css,cpp,python,firebase,git,github,linux" />
 </p>
 
 ---
