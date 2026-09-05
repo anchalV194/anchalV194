@@ -44,45 +44,6 @@
   </a>
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=anchalV194&show_icons=true&theme=radical&hide_border=true"
-    width="48%"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=anchalV194&layout=compact&theme=radical&hide_border=true"
-    width="48%"
-  />
-</p>
-
----
-
-### 📌 Featured Projects
-
-<p align="center">
-
-  <a href="https://github.com/anchalV194/HerShield">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=anchalV194&repo=HerShield&theme=radical&hide_border=true"
-      width="45%"
-    />
-  </a>
-
-  <a href="https://github.com/anchalV194/Sentiment-Analysis-of-Movie-reviews">
-    <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=anchalV194&repo=Sentiment-Analysis-of-Movie-reviews&theme=radical&hide_border=true"
-      width="45%"
-    />
-  </a>
-
-</p>
-
----
 
 ### ✨ Fun Fact
 
@@ -90,6 +51,3 @@
 
 ---
 
-<p align="center">
-  ⭐ Thanks for visiting my profile!
-</p>
