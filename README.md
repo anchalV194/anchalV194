@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Anchal Verma</h1>
+<h1 align="center">Hi, I'm Anchal Verma</h1>
 
 <p align="center">
-  <b>B.Tech CSE @ SSIPMT, Raipur</b><br>
+  <b>B.Tech CSE</b><br>
   💡 Passionate about Flutter, DSA & building real-world apps
 </p>
 
